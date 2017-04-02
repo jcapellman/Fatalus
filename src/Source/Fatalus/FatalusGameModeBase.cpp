@@ -1,6 +1,8 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#pragma once
+#include "Fatalus.h"
+#include "FatalusGameModeBase.h"
 
-#include "Engine.h"
+
+
 

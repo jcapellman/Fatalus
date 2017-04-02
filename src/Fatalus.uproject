@@ -9,13 +9,5 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
-	],
-	"TargetPlatforms": [
-		"AllDesktop",
-		"LinuxNoEditor",
-		"MacNoEditor",
-		"WindowsNoEditor",
-		"XboxOne",
-		"PS4"
 	]
 }
